@@ -4,6 +4,15 @@ body{
 header{
     text-align: center;
 background:url("images/pinksky.jpg");
+background-size: cover;
+    color: white;
+}
+.Home {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+a(
+color=white
 }
 
 
