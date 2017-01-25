@@ -1,8 +1,10 @@
 body{
     background:pink;
 }
-header(
+header{
     text-align: center;
 background:url("images/pinksky.jpg");
-)
+}
+
+
 
