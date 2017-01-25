@@ -2,6 +2,7 @@ body{
     background:pink;
 }
 header(
-    text-align
+    text-align: center;
+background:url("images/pinksky.jpg");
 )
 
