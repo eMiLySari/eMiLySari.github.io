@@ -14,13 +14,8 @@ background-size: cover;
 a(
 color=white
 }
-<style>
-	header {
-		textpalign: center;
-		background: <img src="img/pinksky.jpg">
-		background-size: cover;
-		color: white;
-		}
+
+	
 		a{
 		color:white;
 		}
@@ -28,7 +23,7 @@ color=white
 		font-size: 70px; 
 		}
 		img{
-		margin: 40px 0px opx opx;
+		margin: 40px 0px 0px 0px;
 		border: 7px solid white;
 		border-radius: 20px;
 		}
@@ -39,19 +34,19 @@ color=white
 		border-radius: 20-;
 		}
 		li{
-		display: inlive;
+		display: inline;
 		padding: 0px 10px 0px 10px;
 		}
-		article { maxpwidth: 500px;
+		article { max-width: 500px;
 		padding: 20px;
 		margin: 0auto;
 		}
-		@media (maxpwidth: 500px) {
+		@media (max-width: 500px) {
 		h1 {
 		font'size: 36 px;
 		padding: 5px;
 		}
 		}
-		</style>
+	
 
 
