@@ -11,9 +11,11 @@ background-size: cover;
     display: inline;
     padding: 0px 10px 0px 10px;
 }
-a(
-color=white
 }
+a{
+	color: white;
+}
+
 
 	
 		a{
@@ -39,13 +41,16 @@ color=white
 		}
 		article { max-width: 500px;
 		padding: 20px;
-		margin: 0auto;
+		margin: 0 auto;
 		}
 		@media (max-width: 500px) {
 		h1 {
 		font'size: 36 px;
 		padding: 5px;
 		}
+			li{
+				padding: 5px;
+				display: block;
 		}
 	
 
